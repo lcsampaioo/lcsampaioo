@@ -1,5 +1,6 @@
 # Hello there!
-name's Lucas a Cloud engineer from Brazil.
+Name's Lucas a Cloud engineer from Brazil.
+
 I have fun with tech equipment, system administrator by hobby and avid Linux
 
 # Things I've worked with
@@ -16,9 +17,9 @@ I have fun with tech equipment, system administrator by hobby and avid Linux
 
 # I like hosting my own tech
 - Docker - My Beloved
-- Atuin - Centralized terminal history
 - Proxmox - My virtualization platform of choice
-- HomeAssistant - Smart things automation for the privacy minded 
+- Atuin - Centralized terminal history
+- HomeAssistant - Automation for Smart things
 - TrueNas Scale - Storage solution
 - Nginx Proxy Manager - Local proxy hosts with SSL certificates
 - Rustdesk - Accessing machines remotelly
